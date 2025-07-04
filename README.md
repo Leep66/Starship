@@ -8,7 +8,7 @@ A fast-paced 2D space shooter featuring disc collision physics and competitive l
 
 - **Physics System**
   - Disc-based collision detection
-  - Newtonian momentum simulation
+  - Physical Simulation. Move by thrust, accompanied by inertia.
 
 - **Local Multiplayer**
   - Split-screen gameplay
