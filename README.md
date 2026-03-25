@@ -4,6 +4,12 @@
 
 A fast-paced 2D space shooter featuring disc collision physics and competitive local multiplayer.
 
+## Engine
+
+- **Engine:** https://github.com/Leep66/Engine  
+
+The game logic and rendering are implemented using my own custom-built C++ engine.
+
 ## ✨ Core Features
 
 - **Physics System**
